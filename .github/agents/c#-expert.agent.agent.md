@@ -1,5 +1,5 @@
 ---
-name: C# Expert
+name: Csharp Expert
 description: Agent C# 12+ .NET 9 Azure SDK. Azure Functions, Console Apps, ASP.NET Core APIs.
 model: GPT-4.1
 tools:
